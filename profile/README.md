@@ -1,4 +1,4 @@
-## Hi there 👋
+Welcome to the computational home of the Experimental Planetology research group at the ETH Zurich.
 
 <!--
 

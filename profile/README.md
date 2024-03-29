@@ -1,4 +1,6 @@
-Welcome to the computational home of the Experimental Planetology research group at the ETH Zurich.
+Welcome to the computational home of the [Experimental Planetology](https://erdw.ethz.ch/en/research/institutes/geochemistry-petrology/experimental-planetology.html) research group at the ETH Zurich led by Prof. Dr. Paolo Sossi.
+
+
 
 <!--
 

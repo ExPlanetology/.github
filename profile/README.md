@@ -1,6 +1,8 @@
 Welcome to the computational home of the [Experimental Planetology](https://erdw.ethz.ch/en/research/institutes/geochemistry-petrology/experimental-planetology.html) research group at the ETH Zurich led by Prof. Dr. Paolo Sossi.
 
+### Quick links:
 
+- [ATMODELLER](https://github.com/ExPlanetology/atmodeller): Volatile partitioning between planetary reservoirs with solubility, non-ideality, and condensation
 
 <!--
 

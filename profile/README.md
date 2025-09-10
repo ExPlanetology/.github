@@ -6,7 +6,7 @@ We are based in the Department of Earth and Planetary Sciences (D-EAPS) at ETH Z
 
 ### Quick links
 
-- [Atmodeller](https://github.com/ExPlanetology/atmodeller): Volatile partitioning between planetary reservoirs with solubility, non-ideality, and condensation
+- [atmodeller](https://github.com/ExPlanetology/atmodeller): Volatile partitioning between planetary reservoirs with solubility, non-ideality, and condensation
 - [learn-dev](https://github.com/ExPlanetology/learn-dev): Principles of software development for scientists and researchers (under development)
 - [jaxmod](https://github.com/ExPlanetology/jaxmod): Lightweight utility functions for JAX arrays, batching, and pytrees
 

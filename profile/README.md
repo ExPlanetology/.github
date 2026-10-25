@@ -6,7 +6,7 @@ We are based in the Department of Earth and Planetary Sciences (D-EAPS) at ETH Z
 
 ### Quick links
 
-- [atmodeller](https://github.com/ExPlanetology/atmodeller): Volatile partitioning between planetary reservoirs with solubility, non-ideality, and condensation
+- [atmodeller](https://github.com/ExPlanetology/atmodeller): Thermochemical equilibrium of planetary interiors and atmospheres in JAX
 - [bedroc](https://github.com/ExPlanetology/bedroc): Bayesian Engine for Determining Rock Origin and Composition (under development)
 - [learn-data](https://github.com/ExPlanetology/learn-data): Foundations of data science for Earth and Planetary sciences (under development)
 - [learn-dev](https://github.com/ExPlanetology/learn-dev): Principles of software development for scientists and researchers (under development)
